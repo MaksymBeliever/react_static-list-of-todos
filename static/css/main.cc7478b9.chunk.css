@@ -1,0 +1,2 @@
+.todo{border:3px solid #000;border-collapse:collapse;text-align:center}.todo__head{background-color:#626be6}.todo__body--completed{background-color:#25d35f}.todo__body--failed{background-color:#be5858}td,th{padding:18px;border:1px solid #000}.App{display:flex;flex-direction:column;justify-content:center;align-items:center;font-family:Arial,Helvetica,sans-serif;font-size:18px}
+/*# sourceMappingURL=main.cc7478b9.chunk.css.map */
